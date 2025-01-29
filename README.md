@@ -1,7 +1,7 @@
 # Hi there! i'm Lewis! 🚀
 
 
-📚 Currently learning Data science stuff & Javascript
+📚 Currently learning Data science & Programming
 
 👯 Looking to collaborate on Data Science projects!
 
