@@ -23,7 +23,7 @@
 
 
 # • Most used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lewiscr7&layout=pie)](https://github.com/Lewiscr7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lewiscr7&layout=pie&theme=dark)](https://github.com/Lewiscr7/github-readme-stats)
 
 # • Github Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lewiscr7&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
