@@ -25,6 +25,7 @@
 # • Most used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lewiscr7&layout=pie)](https://github.com/Lewiscr7/github-readme-stats)
 
+# • Github Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lewiscr7&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## • Contributions:
@@ -80,3 +81,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lewiscr7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lewiscr7&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+a parte do most used languages, tem como ela ficar com o o fundo escuro neste arquivo .md?
